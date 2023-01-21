@@ -1,6 +1,6 @@
 {
   "name": "@leavemealone-app/passport-ymail-oauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git@github.com:leavemealone-app/passport-ymail-oauth.git",
   "author": "James Ivings <james@squarecat.io>",
   "license": "MIT",
